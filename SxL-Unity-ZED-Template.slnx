@@ -1,2 +1,4 @@
 ﻿<Solution>
+  <Project Path="Stereolabs.Zed.Examples.csproj" />
+  <Project Path="NewAssembly.csproj" />
 </Solution>
