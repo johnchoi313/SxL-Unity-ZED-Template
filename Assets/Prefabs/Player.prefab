@@ -2238,7 +2238,7 @@ GameObject:
   - component: {fileID: 326018116233011288}
   - component: {fileID: -6824248431415980064}
   m_Layer: 16
-  m_Name: Unity_Avatar
+  m_Name: Player
   m_TagString: Player
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
